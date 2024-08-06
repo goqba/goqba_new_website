@@ -1,0 +1,97 @@
+{
+  "IndexPage": {
+    "title": "Welocme",
+    "welcome": "Welcome",
+    "desc": "This is a SeeZ adminstration website. You are able to see and manage the list of patients. See their analyzed conditions with interactive charts and graphs.",
+    "indexBtn": "Dashboard",
+    "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes."
+  },
+  "DashboardPage": {
+    "title": "Dashboard",
+    "time": "Time",
+    "count": "Count",
+    "timesplayed": "Times played",
+    "games": {
+      "all": "All",
+      "highfive": "High Five",
+      "wall": "Wall",
+      "watertap": "Water Tap",
+      "piano": "Piano",
+      "dice": "Dice",
+      "balloon": "Balloon"
+    },
+    "handMovement": {
+      "title": "Right/Left hand movement",
+      "rightHand": "Right-hand fingers",
+      "leftHand": "Left-hand fingers",
+      "totalDis": "Total distance",
+      "totalRat": "Total rotation",
+      "avgSpeed": "Average speed",
+      "maxSpeed": "Maximum speed"
+    },
+    "fingerBending": {
+      "title": "Finger bending figures",
+      "rightHand": "Right-hand",
+      "leftHand": "Left-hand ",
+      "thumb": "Thumb",
+      "index": "Index",
+      "middle": "Middle",
+      "ring": "Ring",
+      "little": "Little"
+    },
+    "weeklyAnalytics": {
+      "righthandTitle": "Weekly analytics for right hand",
+      "lefthandTitle": "Weekly analytics for left hand",
+      "totalDistance": "Total distance",
+      "totalRotation": "Total rotation",
+      "fingerFlex": "Finger flexion figures"
+    },
+    "description": "<p>Auch die Pfadnamen sind internationalisiert.</p><p>Wenn du die Standardsprache Englisch verwendest, siehst du <code>/en/pathnames</code> in der Adressleiste des Browsers auf dieser Seite.</p><p>Wenn du die Sprache auf Deutsch änderst, wird die URL entsprechend lokalisiert (<code>/de/pfadnamen</code>).</p>"
+  },
+  "Error": {
+    "title": "Something went wrong!",
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page."
+  },
+  "LocaleLayout": {
+    "title": "next-intl example"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ko {Korean} en {English} other {Unknown}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "patients": "Patients",
+    "setting": "Setting",
+    "logout": "Log out"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "title": "Docs",
+        "description": "Learn more about next-intl in the official docs.",
+        "href": "https://next-intl-docs.vercel.app/"
+      },
+      "source": {
+        "title": "Source code",
+        "description": "Browse the source code of this example on GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router"
+      }
+    }
+  },
+  "Games": {
+    "total": "All",
+    "highfive": "High Five",
+    "wall": "Wall",
+    "watertap": "Water Tap",
+    "piano": "Piano",
+    "dice": "Dice",
+    "ballon": "Ballon"
+  },
+  "Dashboard": {}
+}
